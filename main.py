@@ -1,6 +1,6 @@
 # this is an add function
 
-def Suman(x, y):
+def Suman(x, y)
     sum = x + y
     return sum 
 
